@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "瘋狂世界",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T17:55:57.045287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "晚安地球人+瘋狂世界 - Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_晚安地球人+瘋狂世界_-_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瘋狂世界 (Live)",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/02_瘋狂世界_(Live)_五月天.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瘋狂世界 #MaydayBlue20th",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/03_瘋狂世界__MaydayBlue20th_五月天.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "晚安 地球人 / 瘋狂世界 (live)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/04_晚安_地球人___瘋狂世界_(live)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瘋狂世界",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/05_瘋狂世界_五月天.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "晚安地球人+瘋狂世界 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/06_晚安地球人+瘋狂世界_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瘋狂世界",
+      "artist": "James Yang",
+      "has_synced": true,
+      "path": "select/07_瘋狂世界_James_Yang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "瘋狂世界",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/08_瘋狂世界_Mayday.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "瘋狂世界 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/09_瘋狂世界_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "瘋狂世界 #MaydayBlue20th",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/10_瘋狂世界__MaydayBlue20th_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "晚安 地球人 / 瘋狂世界",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/11_晚安_地球人___瘋狂世界_五月天.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "晚安 地球人 / 瘋狂世界",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/12_晚安_地球人___瘋狂世界_Mayday.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "瘋狂世界",
+      "artist": "周璇",
+      "has_synced": false,
+      "path": "select/13_瘋狂世界_周璇.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瘋狂世界",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_瘋狂世界_Mayday.txt"
+    }
+  ]
+}
